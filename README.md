@@ -1,5 +1,4 @@
-# HydroThunder-texture-extractor
-a noesis script to VIEW the textures from hydro thunder hurricane into normal formats
+A noesis script to VIEW the textures from hydro thunder hurricane into normal formats
 
 this only work on the xbox 360 version, as far as im aware.
 
