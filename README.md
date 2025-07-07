@@ -1,9 +1,9 @@
-A noesis script to VIEW the textures from hydro thunder hurricane into normal formats
+A noesis script to VIEW the textures from the hydro thunder hurricane into standard formats
 
-this only work on the xbox 360 version, as far as im aware.
+This only works on the Xbox 360 version, as far as I'm aware.
 
-use wxpirs to extract the LIVE package, then use HyperBx's "barracuda" hyperlib extractor to isolate the textures from the main APF file.
-[https://github.com/hyperbx/HyperLib](url) (copy paste into different tab, dont click)
+Use wxpirs to extract the LIVE package, then use HyperBx's "barracuda" hyperlib extractor to isolate the textures from the main APF file.
+[https://github.com/hyperbx/HyperLib](url) (copy and paste into a different tab, don't click)
 
-then simply drag this file into C:.....\noesis\plugins\python folder, and view!
+Then drag this file into C:.....\noesis\plugins\python folder, and view!
 
