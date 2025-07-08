@@ -7,3 +7,4 @@ Use wxpirs to extract the LIVE package, then use HyperBx's "barracuda" hyperlib 
 
 Then drag this file into C:.....\noesis\plugins\python folder, and view!
 
+![created-a-texture-extractor-v0-3peo70jl85zd1](https://github.com/user-attachments/assets/398fdac6-27fe-4cce-8e42-0542a3c81d7c)
